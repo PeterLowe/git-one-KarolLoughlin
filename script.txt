@@ -1,0 +1,3 @@
+Git guide
+
+By Karol Loughlin

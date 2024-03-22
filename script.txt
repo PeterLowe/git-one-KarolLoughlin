@@ -13,3 +13,4 @@ Can use wildcards and -r for recursive
 Use - - cached to remove from staging area
 
 Use -f to use on working directory
+old stuff
